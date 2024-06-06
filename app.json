@@ -22,7 +22,8 @@
       "permissions": [
         "ACCESS_FINE_LOCATION",
         "ACCESS_COARSE_LOCATION"
-      ]
+      ],
+      "package": "com.arbazmalik.reactappps"
     },
     "web": {
       "favicon": "./assets/favicon.png"
