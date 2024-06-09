@@ -31,7 +31,7 @@ const LandingScreen = ({ navigation }) => {
   return (
     <View style={{ flex: 1, justifyContent: 'center', backgroundColor: "#F7F7F7" }}>
       <View style={{ margin: 2 }}>
-        <Text style={{ fontSize: 16, textAlign: 'right', marginEnd: 4 }}>Skip</Text>
+        
       </View>
       <View style={{ marginTop: 300 }}>
         <View style={{ margin: 10 }}>
